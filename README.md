@@ -9,7 +9,7 @@ com os cadastrados no arquivo validador_login.php.
 -É realizada a validação do login e senha de cada usuário. Após o login e senha é verificado o nível
 do usuário que está logado para saber quais chamados poderão ser vistos pelo mesmo.
 
-Usuário e Senhas de Teste:
+Usuários e Senha de Teste:
 
 adm@teste.com.br - Senha: 1234 - Tipo Administrador (Poderá ver todos os chamados)
 user@teste.com.br - Senha: 1234 - Tipo Administrador (Poderá ver todos os chamados)
