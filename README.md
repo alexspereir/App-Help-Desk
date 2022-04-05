@@ -1,7 +1,7 @@
 # App-Help-Desk
 Aplicação para cadastro e consulta de chamados de problemas técnicos em informática.
 
--Utilizado a linguagem PHP para iniciar sessão no site, através de login e senha, os quais são verificados
+-Utilizada a linguagem PHP para iniciar sessão no site, através de login e senha, os quais são verificados
 com os cadastrados no arquivo validador_login.php.
 
 -Os chamados criados são gravados em um arquivo para uma futura consulta.
